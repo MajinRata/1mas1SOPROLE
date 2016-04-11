@@ -1,2 +1,2 @@
 # 1mas1SOPROLE
-ejemplo de repositorio
+ejemplo de proyecto en GitHub.
